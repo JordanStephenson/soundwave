@@ -97,7 +97,7 @@ header,
   margin-left: 0.25rem;
   width: 1em;
 }
-@media only screen and (min-width: 660px) {
+@media only screen and (min-width: 325px) {
   .container {
     width: 100%;
   }
@@ -133,5 +133,4 @@ header,
   .footer-nav {
     font-size: 1em;
   }
-
 }
