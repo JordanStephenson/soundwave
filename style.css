@@ -124,4 +124,14 @@ header,
   .nav-links {
     font-size: 1em;
   }
+  .title {
+    font-size: 3.6rem;
+  }
+  .cta {
+    font-size: 1em;
+  }
+  .footer-nav {
+    font-size: 1em;
+  }
+
 }
