@@ -95,3 +95,8 @@ header, .main-footer {
   margin-left: 0.25rem;
   width: 1em;
 }
+@media (max-width: 800px) {
+  .container {
+    width: 100%;
+  }
+}
